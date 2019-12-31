@@ -1,0 +1,1 @@
+create table catalogue(varchar name,varchar colour);
